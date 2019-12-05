@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'Redemption';
-    src: url('fonts/Redemption.eot');
-    src: url('fonts/Redemption.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Redemption.woff2') format('woff2'),
-         url('fonts/Redemption.woff') format('woff'),
-         url('fonts/Redemption.ttf')  format('truetype'),
-         url('fonts/Redemption.svg#Redemption') format('svg');
+    src: url('Redemption.eot');
+    src: url('Redemption.eot?#iefix') format('embedded-opentype'),
+         url('Redemption.woff2') format('woff2'),
+         url('Redemption.woff') format('woff'),
+         url('Redemption.ttf')  format('truetype'),
+         url('Redemption.svg#Redemption') format('svg');
 }
